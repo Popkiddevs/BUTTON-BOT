@@ -1,20 +1,20 @@
 ---
 
-# Ethix-MD-V2
+# POPKID-BUTTON BOT
 
 <p align="center">
-  <a href="https://github.com/Ethix-Xsid"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Ethix-MD-+v2+MultiDevice;Developed+by+Ethix~Xsid;Give+star+and+forks+this+Repo+🌟" alt="EthixReadme"></a>
+  <a href="https://github.com/Popkiddevs/BUTTON-BOT"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=POPKID-BUTTON-+BOT+MultiDevice;Developed+by+POPKID;Give+star+and+forks+this+Repo+🌟" alt="PopkidReadme"></a>
 </p>
 
 ## 🚀 Getting Started
 
-To get started with Ethix-MD-V2, follow these steps:
+To get started with POPKID, follow these steps:
 
 ### 1. Fork This Repository
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-<a href='https://github.com/Ethix-Xsid/Ethix-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/Popkiddevs/BUTTON-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. Get Session ID via Pair Code
 
@@ -24,7 +24,7 @@ You'll need a session ID to run the bot. Click the button below to obtain your s
 
 ## 🚀 Deployment Options
 
-You can deploy the Ethix-MD-V2 bot using two methods: **Heroku** or **Termux**. Choose the method that suits you best.
+You can deploy the POPKID bot using two methods: **Heroku** or **Termux**. Choose the method that suits you best.
 
 ### Deploy to Heroku
 
@@ -40,7 +40,7 @@ Deploying the bot to Heroku is simple and straightforward. Follow these steps:
 
    Once your Heroku account is ready, deploy the bot by clicking the button below:
 
-   <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=red'/></a>
+   <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-pink?style=for-the-badge&logo=heroku&logoColor=red'/></a>
 
 ### Deploy to Termux
 
@@ -126,12 +126,12 @@ You can also deploy the bot directly on your Android device using Termux. Here�
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-- **Owner WhatsApp Number:** +919142294671
+- **Owner WhatsApp Number:** +254111385747
   - *Note:* Please save the owner's number in your contacts before sending a message.
 
-- **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S)
+- **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l)
 
-- **WhatsApp Group:** [Join Here](https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp)
+- **WhatsApp Group:** [Join Here](https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l)
 - 
 - **Donate:** [Buy Me A Coffee](buymeacoffee.com/ethixbhai)
 
